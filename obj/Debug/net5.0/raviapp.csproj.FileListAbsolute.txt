@@ -1,0 +1,16 @@
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\bin\Debug\net5.0\raviapp.exe
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\bin\Debug\net5.0\raviapp.deps.json
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\bin\Debug\net5.0\raviapp.runtimeconfig.json
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\bin\Debug\net5.0\raviapp.runtimeconfig.dev.json
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\bin\Debug\net5.0\raviapp.dll
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\bin\Debug\net5.0\ref\raviapp.dll
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\bin\Debug\net5.0\raviapp.pdb
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.csprojAssemblyReference.cache
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.AssemblyInfoInputs.cache
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.AssemblyInfo.cs
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.csproj.CoreCompileInputs.cache
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.dll
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\ref\raviapp.dll
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.pdb
+C:\Users\kondapr\Desktop\Auto\AWS\raviapp\obj\Debug\net5.0\raviapp.genruntimeconfig.cache
